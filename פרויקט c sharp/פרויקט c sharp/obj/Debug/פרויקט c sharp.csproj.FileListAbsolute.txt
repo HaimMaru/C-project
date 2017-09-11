@@ -1,0 +1,6 @@
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\bin\Debug\פרויקט c sharp.exe.config
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\bin\Debug\פרויקט c sharp.exe
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\bin\Debug\פרויקט c sharp.pdb
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\obj\Debug\פרויקט c sharp.csprojResolveAssemblyReference.cache
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\obj\Debug\פרויקט c sharp.exe
+C:\Users\חיים מרו\Documents\Visual Studio 2017\Projects\פרויקט c sharp\פרויקט c sharp\obj\Debug\פרויקט c sharp.pdb
